@@ -27,7 +27,7 @@ La actividad consiste en desarrollar los siguientes pasos:
 
 La actividad va de 3 documentos:
 
-[reporte html]()
+[reporte html](A1.3_652911.html)
 
 [reporte ipynb]()
 
