@@ -24,3 +24,11 @@ La actividad consiste en desarrollar los siguientes pasos:
 4. Análisis de significancia: interpretar los resultados para identificar si existe al menos una variable significativa en el modelo, cuáles variables muestran asociación lineal con la salida y cuál se considera la más importante
 5. Evaluación del desempeño: calcular el RSE y el coeficiente de determinación R² tanto en el entrenamiento como en el de validación
 6. Visualización de resultados: generar una gráfica de dispersión que compare valores reales vs valores estimados de la presión en los datos de validación, incluyendo la línea de referencia ideal.
+
+La actividad va de 3 documentos:
+
+[reporte html]()
+
+[reporte ipynb]()
+
+[reporte NASA.cvs]()
