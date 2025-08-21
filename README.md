@@ -27,8 +27,8 @@ La actividad consiste en desarrollar los siguientes pasos:
 
 La actividad va de 3 documentos:
 
-[reporte html](A1.3_652911.html)
+[reporte html]()
 
-[reporte ipynb](A1.3_652911.ipynb)
+[reporte ipynb]()
 
 [reporte NASA.cvs](NASA.csv)
